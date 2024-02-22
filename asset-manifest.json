@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sathwikyelimela_week3/static/css/main.a7c65d40.css",
+    "main.js": "/sathwikyelimela_week3/static/js/main.b0b9774c.js",
+    "static/js/453.5126c4a1.chunk.js": "/sathwikyelimela_week3/static/js/453.5126c4a1.chunk.js",
+    "index.html": "/sathwikyelimela_week3/index.html",
+    "main.a7c65d40.css.map": "/sathwikyelimela_week3/static/css/main.a7c65d40.css.map",
+    "main.b0b9774c.js.map": "/sathwikyelimela_week3/static/js/main.b0b9774c.js.map",
+    "453.5126c4a1.chunk.js.map": "/sathwikyelimela_week3/static/js/453.5126c4a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7c65d40.css",
+    "static/js/main.b0b9774c.js"
+  ]
+}
